@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "cloud-mail-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "e6522d56-e5bd-4d4d-b457-f1134887b82d",
+			"database_name": "cloud-mail-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
